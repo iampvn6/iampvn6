@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pavan Kumar VN</h1>
+<h3 align="center">🚀 Passionate C++ | Qt/QML | Python Developer | Embedded Systems Enthusiast</h3>
 
-<!--
-**iampvn6/iampvn6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iampvn6&label=Profile%20views&color=0e75b6&style=flat" alt="iampvn6" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **cutting-edge C++ projects** in **automotive, embedded systems, and telematics**.
+- 🌱 I’m expanding my knowledge in **AI, Machine Learning, ADAS, and modern C++ (C++11/14/17/20)**.
+- 💡 Always up for discussions on **design patterns, performance tuning, system architecture, and code quality**.
+- 💬 Ask me anything about **C++, Qt/QML, Linux, CAN, MQTT, or software architecture**.
+- 🤝 I’m open to **collaboration**, **mentorship**, and **knowledge sharing** in the C++/Embedded community.
+- 📫 Reach me at: **iam.pvn6@gmail.com**
+
+---
+
+### 🌐 Connect with Me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pavan-kumar-vn-40b167212/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40" alt="Qt" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iampvn6&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampvn6&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+### 🧠 Fun Facts:
+- I believe **clean code is a craft**, not just a requirement.
+- I'm constantly striving to balance **performance, readability, and maintainability**.
+- If it’s C++, **I’m all ears** – from metaprogramming to memory leaks!
+
+---
+
+> _"The best code is no code at all. The second-best code is code that is clean, testable, and expressive."_ – Refined developer philosophy 💻
+
+---
+
+

@@ -7,26 +7,28 @@
 
 ---
 
-- 🔭 I’m currently working on **cutting-edge C++ projects** in **automotive, embedded systems, and telematics**.
-- 🌱 I’m expanding my knowledge in **AI, Machine Learning, ADAS, and modern C++ (C++11/14/17/20)**.
-- 💡 Always up for discussions on **design patterns, performance tuning, system architecture, and code quality**.
-- 💬 Ask me anything about **C++, Qt/QML, Linux, CAN, MQTT, or software architecture**.
-- 🤝 I’m open to **collaboration**, **mentorship**, and **knowledge sharing** in the C++/Embedded community.
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **cutting-edge C++ projects** in the **automotive, embedded systems, and telematics** space.  
+- 🌱 Actively learning **AI, Machine Learning, ADAS**, and modern **C++ standards (C++11/14/17/20)**.  
+- 💡 I’m passionate about **design patterns**, **performance tuning**, **system architecture**, and **code quality**.  
+- 💬 Ask me about **C++, Qt/QML, Linux, CAN, MQTT, or software architecture**.  
+- 🤝 Always eager to **learn**, **explore new technologies**, and **deepen my understanding** in the C++ and Embedded Systems domain.  
 - 📫 Reach me at: **iam.pvn6@gmail.com**
 
 ---
 
-### 🌐 Connect with Me:
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pavan-kumar-vn-40b167212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
@@ -43,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iampvn6&show_icons=true&theme=default" alt="GitHub Stats" />
@@ -55,9 +57,11 @@
 
 ---
 
-### 🧠 Fun Facts:
-- I believe **clean code is a craft**, not just a requirement.
-- I'm constantly striving to balance **performance, readability, and maintainability**.
-- If it’s C++, **I’m all ears** – from metaprogramming to memory leaks!
+## 🧠 Fun Facts
 
+- 🧼 I believe **clean code is a craft**, not just a requirement.  
+- ⚖️ I strive to balance **performance**, **readability**, and **maintainability** in every project.  
+- 🎯 If it’s **C++**, I’m all ears — from **metaprogramming to memory leaks**!
+
+---
 

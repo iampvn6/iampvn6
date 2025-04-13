@@ -60,10 +60,4 @@
 - I'm constantly striving to balance **performance, readability, and maintainability**.
 - If it’s C++, **I’m all ears** – from metaprogramming to memory leaks!
 
----
-
-> _"The best code is no code at all. The second-best code is code that is clean, testable, and expressive."_ – Refined developer philosophy 💻
-
----
-
 

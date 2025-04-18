@@ -41,6 +41,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cmake-logo.svg" width="40" height="40" alt="CMake" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Bazel_logo.svg" width="40" height="40" alt="Bazel" />
+  <img src="https://raw.githubusercontent.com/google/googletest/main/docs/img/logo.png" width="40" height="40" alt="GTest" />
+  <img src="https://img.shields.io/badge/QML-4CAF50?style=for-the-badge&logo=qt&logoColor=white" height="30" alt="QML" />
+  <img src="https://img.shields.io/badge/CAN--Protocol-yellow?style=for-the-badge&logo=car&logoColor=black" height="30" alt="CAN Protocol" />
+  <img src="https://img.shields.io/badge/MQTT-purple?style=for-the-badge&logo=mqtt&logoColor=white" height="30" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" alt="DSA" />
 </p>
 
 ---
@@ -64,4 +71,3 @@
 - 🎯 If it’s **C++**, I’m all ears — from **metaprogramming to memory leaks**!
 
 ---
-

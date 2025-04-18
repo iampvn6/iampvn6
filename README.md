@@ -1,10 +1,5 @@
-<!-- Banner (you can host this image or use the one I generated for you) -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/iampvn6/assets/dev-banner.png" alt="developer banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Pavan Kumar VN</h1>
-<h3 align="center">🚀 Passionate C++ | Qt/QML | Embedded Systems Developer | Linux Enthusiast</h3>
+<h3 align="center">🚀 Passionate C++ | Qt/QML | Python Developer | Embedded Systems Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iampvn6&label=Profile%20views&color=0e75b6&style=flat" alt="iampvn6" />
@@ -12,55 +7,45 @@
 
 ---
 
-### 🔥 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently working on **cutting-edge C++/Qt-based solutions** in **Automotive Telematics** & **Embedded Systems**
-- 🌱 Learning and eager to explore **Machine Learning, ADAS, AI**, and **Modern C++ (11/14/17/20)**
-- 💡 Passionate about **performance tuning, architecture design, and writing maintainable code**
-- 💬 Ask me anything about **C++, Qt/QML, Linux, CAN, MQTT, Python, CI/CD, or software architecture**
+- 🔭 Currently working on **cutting-edge C++ projects** in the **automotive, embedded systems, and telematics** space.  
+- 🌱 Actively learning **AI, Machine Learning, ADAS**, and modern **C++ standards (C++11/14/17/20)**.  
+- 💡 I’m passionate about **design patterns**, **performance tuning**, **system architecture**, and **code quality**.  
+- 💬 Ask me about **C++, Qt/QML, Linux, CAN, MQTT, or software architecture**.  
+- 🤝 Always eager to **learn**, **explore new technologies**, and **deepen my understanding** in the C++ and Embedded Systems domain.  
 - 📫 Reach me at: **iam.pvn6@gmail.com**
 
 ---
 
-### 🤝 Let's Connect
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pavan-kumar-vn-40b167212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Skills & Technologies
+## 🛠️ Languages & Tools
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS"/>
-
-  <!-- Qt/QML -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" alt="Qt"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/QML_Logo.svg" width="40" alt="QML"/>
-
-  <!-- CAN & MQTT -->
-  <img src="https://cdn.worldvectorlogo.com/logos/canopen.svg" width="40" alt="CAN Protocol"/>
-  <img src="https://www.vectorlogo.zone/logos/eclipse_mosquitto/eclipse_mosquitto-icon.svg" width="40" alt="MQTT"/>
-
-  <!-- DB & Tools -->
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" alt="SQLite"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/null/external-debugging-programming-and-coding-flatart-icons-outline-flatarticons.png" width="40" alt="Debugging"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40" alt="Qt" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iampvn6&show_icons=true&theme=default" alt="GitHub Stats" />
@@ -72,14 +57,12 @@
 
 ---
 
-### 🎯 Fun Facts
+## 🧠 Fun Facts
 
-- 🧠 I believe **clean, maintainable code** is a reflection of **great engineering**
-- ⚙️ I enjoy exploring **low-level systems**, debugging tricky issues, and building robust architectures
-- 🔁 Always refining my craft – because **learning never stops**
+- 🧼 I believe **clean code is a craft**, not just a requirement.  
+- ⚖️ I strive to balance **performance**, **readability**, and **maintainability** in every project.  
+- 🎯 If it’s **C++**, I’m all ears — from **metaprogramming to memory leaks**!
 
 ---
 
-<p align="center">
-  ⚡ *"Code as if the person who ends up maintaining your code is a violent psychopath who knows where you live."*
-</p>
+> ✨ _"I don’t just write C++ code — I architect systems, craft abstractions, and engineer performance. Clean, scalable, and maintainable code is my signature."_  
